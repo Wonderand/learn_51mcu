@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\status" 
+PRINT(".\Listings\status.m51") RAMSIZE(256) 
